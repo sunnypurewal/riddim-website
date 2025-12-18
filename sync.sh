@@ -1,1 +1,1 @@
-aws s3 sync . s3://riddimsoftware.com --exclude '.git/*' --exclude 'sync.sh'
+aws s3 sync . s3://riddimsoftware.com --exclude '.git/*' --exclude 'sync.sh' --profile sun
