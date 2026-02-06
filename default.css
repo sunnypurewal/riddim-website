@@ -109,5 +109,17 @@ div.app_store_app > a:visited {
   color: #333;
 }
 
+.updated-indicator {
+  display: inline-block;
+  margin-top: 0.15rem;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  border-radius: 999px;
+  background-color: #4caf50;
+  color: #fff;
+}
+
 
 
