@@ -66,6 +66,12 @@ img.app_store_icon {
   height: 96px;
   border-radius: 23%;
 }
+.github-icon {
+  background-color: white;
+  padding: 15px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+}
 span.app_store_icon {
   display: block;
 }
